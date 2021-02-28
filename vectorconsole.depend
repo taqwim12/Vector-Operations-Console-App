@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1568199627 source:d:\codeblocks projects\vectorconsole\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
+1614523940 source:d:\[coding] codeblocks projects\vectorconsole\main.cpp
+	<iostream>
+	<conio.h>
+	<math.h>
+
